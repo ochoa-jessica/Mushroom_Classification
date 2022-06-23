@@ -1,5 +1,5 @@
 # Mushroom Classification EDA using Plotly 
-### mainly using .go charts
+mainly using .go charts
 
 ## Motivation
 To get hands-on experience using Plotly to visualize multi-diemnsional categorical data
@@ -17,4 +17,4 @@ For readability purpose I renamed one of column names from <i>class</i> to <i>is
 ## One-Dimensional Plot
 The pie chart is constructed using <i>population</i> feature.
 ![Mushroom Population Pie Chart](Images/newplot.png)
-Mushrooms are classified by the kind of populations they habituate in. The above pie chart represents the proportion of mushrooms in each population. Most of the mushrooms live in groups of several, while less than 15% of the mushrooms live in groups that can be described as numerous, abundant, or clustered. Approximately one-third of the mushrooms contained in this dataset occur either solitarily or scattered.
+<p>Mushrooms are classified by the kind of populations they habituate in. The above pie chart represents the proportion of mushrooms in each population. Most of the mushrooms live in groups of several, while less than 15% of the mushrooms live in groups that can be described as numerous, abundant, or clustered. Approximately one-third of the mushrooms contained in this dataset occur either solitarily or scattered.</p>
