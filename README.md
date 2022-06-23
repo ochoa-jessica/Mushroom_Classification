@@ -14,6 +14,6 @@
 <p>For readability purpose I renamed one of column names from <i>class</i> to <i>is-edible</i> and replaced default observations with human-readable equivalents.</p>
 
 ## One-Dimensional Plot
-<p>The pie chart is constructed using <i>population</i> feature.</p>
 ![Mushroom Population Pie Chart](Images/newplot.png)
+<p>The pie chart is constructed using <i>population</i> feature.</p>
 <p>Mushrooms are classified by the kind of populations they habituate in. The above pie chart represents the proportion of mushrooms in each population. Most of the mushrooms live in groups of several, while less than 15% of the mushrooms live in groups that can be described as numerous, abundant, or clustered. Approximately one-third of the mushrooms contained in this dataset occur either solitarily or scattered.</p>
