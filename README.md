@@ -21,7 +21,7 @@
 ## Two-Dimensional Plot : Pie Chart with two Subplots
 ![Mushroom Population By Edibility Pie Chart](Images/newplot-2.png)
 <p>Do the proportion of mushrooms belonging to either population differ between edible and poisonous mushrooms?</p>
-<p>Well the above question can be answered using two pie charts subplots, where each subplot corresponds to either edible or poisonous class. And yes, indeed, the proportions differ significantly between poisonous and edible mushrooms! <i>Almost 3 qurters of all poisonous mushrooms live</i> in populartions describes <i>as numerous</i>. On the other hand, only about <i>10% of edible mushrooms</i> are <i>counted</i> to the <i>numerous</i> sector. Furthermore, <i>all solitary mushrooms are edible<i>.</p>
+<p>Well the above question can be answered using two pie charts subplots, where each subplot corresponds to either edible or poisonous class. And yes, indeed, the proportions differ significantly between poisonous and edible mushrooms! <i>Almost three qurters of all poisonous mushrooms live</i> in populations described <i>as numerous</i>. On the other hand, only about <i>10% of edible mushrooms</i> are <i>counted</i> to the <i>numerous</i> sector. Furthermore, <i>all solitary mushrooms are edible</i>.</p>
 
 ## Three-Dimensional Plot : Bar Chart
 ![Mushroom Cap Shape & Gill Size](Images/newplot-4.png)
