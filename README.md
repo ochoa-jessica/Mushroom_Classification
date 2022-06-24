@@ -21,7 +21,7 @@
 ## Two-Dimensional Plot : Pie Chart with two Subplots
 ![Mushroom Population By Edibility Pie Chart](Images/newplot-2.png)
 <p>Do the proportion of mushrooms belonging to either population differ between edible and poisonous mushrooms?</p>
-<p>Well the above question can be answered using two pie charts subplots, where each subplot corresponds to either edible or poisonous class. And yes, indeed, the proportions differ significantly between poisonous and edible mushrooms! <i>Almost 3 qurters of all poisonous mushrooms live</i> in populartions describes <i>as numerous</i>. On the other hand, only about <i>10% of edible mushrooms</i> are <i>counted</i> to the <i>numerous</i> sector. Furthermore, <i>all solitary mushrooms are edible<i>.
+<p>Well the above question can be answered using two pie charts subplots, where each subplot corresponds to either edible or poisonous class. And yes, indeed, the proportions differ significantly between poisonous and edible mushrooms! <i>Almost 3 qurters of all poisonous mushrooms live</i> in populartions describes <i>as numerous</i>. On the other hand, only about <i>10% of edible mushrooms</i> are <i>counted</i> to the <i>numerous</i> sector. Furthermore, <i>all solitary mushrooms are edible<i>.</p>
 
 ## Three-Dimensional Plot : Bar Chart
 ![Mushroom Cap Shape & Gill Size](Images/newplot-4.png)
@@ -36,9 +36,9 @@
 
 ## Five-Dimensional Plot : Parallel Coordinates Diagram
 ![Mushroom Cap Shape & Gill Size](Images/newplot-8.png)
-<p>A mushroom distinguishes itself from other mushrooms through its stalk-shape, stalk-surface-above-the-ring, stalk-root, and its stalk-surface-below-the-ring.</p>
+<p>A mushroom distinguishes itself from other mushrooms through its stalk shape, stalk surface above the ring, stalk root, and its stalk surface below the ring.</p>
 <p>Can those features explain a mushroom's edibility? Indeed, it does not seem to make much of a difference whether a mushroom stalk-shape is enlarging or tapering.</p>
-<p>However, the surface above the mushroom-ring gives more information. If we were to select a mushroom with a smooth or fibrous stalk-surface one can feel more confident that the mushroom is edible. A silky surface above the mushroom-ring should be avoided.</p>
+<p>However, the surface above the mushroom-ring gives more information. If we were to select a <i>mushroom with a smooth or fibrous stalk-surface</i> one can feel more confident that the mushroom <i>is edible</i>. A <i>silky surface above the mushroom-ring should be avoided</i>.</p>
 <p>The stalk-root should be club or equal.</p>
 <p>If the stalk surface below the ring is smooth, there is good amount of chance it is an edible mushroom.</p?
 <p>The features as a combination increase the chance to distinguish poisonous and edible mushrooms.</p>
