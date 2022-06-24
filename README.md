@@ -16,4 +16,10 @@
 ## One-Dimensional Plot
 ![Mushroom Population Pie Chart](Images/newplot.png)
 <p>The pie chart is constructed using <i>population</i> feature.</p>
-<p>Mushrooms are classified by the kind of populations they habituate in. The above pie chart represents the proportion of mushrooms in each population. Most of the mushrooms live in groups of several, while less than 15% of the mushrooms live in groups that can be described as numerous, abundant, or clustered. Approximately one-third of the mushrooms contained in this dataset occur either solitarily or scattered.</p>
+<p>Mushrooms are classified by the kind of populations they habituate in. The above pie chart represents the proportion of mushrooms in each population. Most of the mushrooms live in groups of several, while <i>less than 15% of the mushrooms</i> live in groups that can be <i>described as numerous, abundant, or clustered</i>. Approximately <i>one-third of the mushrooms</i> contained in this dataset <i>occur either solitarily or scattered</i>.</p>
+
+## Two-Dimensional Plot
+![Mushroom Population By Edibility Pie Chart](Images/newplot-2.png)
+<p>Do the proportion of mushrooms belonging to either population differ between edible and poisonous mushrooms?</p>
+<p>Well the above question can be answered using two pie charts subplots, where each subplot corresponds to either edible or poisonous class. And yes, indeed, the proportions differ significantly between poisonous and edible mushrooms! <i>Almost 3 qurters of all poisonous mushrooms live</i> in populartions describes <i>as numerous</i>. On the other hand, only about <i>10% of edible mushrooms</i> are <i>counted</i> to the <i>numerous</i> sector. Furthermore, <i>all solitary mushrooms are edible<i>.
+
